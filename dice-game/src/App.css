@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+
+.die{
+    background-color:white;
+    width: 70px;
+    height: 70px;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 20px;
+    display: grid;
+    justify-content: center;    
+}
+
+.value{
+    font-size: 25px;
+}
+.die-container{
+    width: 500px;
+    margin: auto;
+    display: grid;
+    grid-template: auto auto / repeat(5, 1fr);
+    gap: 5px;
+    margin-top: 20%;
+   
+}
+
+.dice-button{
+    display: flex;
+    margin: auto;
+    width: 150px;
+    height: 50px;
+    margin-top: 50px;
+    font-size: 15px;
+    text-align: center;
+    justify-content: center;
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(12, 170, 214);
+}

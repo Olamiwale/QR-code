@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.todo {
+    margin: auto;
+    margin-top: 5%;
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+    width: 500px;
+    box-shadow: 1px 1px 1px 2px;
+
+}
+
+.btn-input {
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+.what-todo{
+    padding-bottom: 20px;
+}
+
+.input-todo{
+    width: 82%;
+    padding: 10px;
+}
+.add-btn {
+    width: 55px;
+    padding: 5px;
+    
+}
+
+.new-tasks{
+    margin-top: 15px;
+    border: 2px solid rgb(10, 3, 3);
+    border-radius: 5px;
+}
+p{
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.new-todo {
+    width: 95%;
+    padding: 10px;
+    border: none;
+    
+}
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    margin-bottom: 5px;
+    
+}
+
+.btn-done, .btn-edit,.btn-delete {
+    background-color:black ;
+    padding: 8px;
+    width:50px;
+    border: none;
+    border-radius: 5px;
+    color: aliceblue;
+}

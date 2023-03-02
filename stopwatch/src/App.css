@@ -1,0 +1,72 @@
+/*
+
+.App{
+margin: auto;
+margin-top: 10rem;
+display: flex;
+flex-direction: column;
+justify-content: center;
+width: 400px;
+height: 25rem;
+font-size: 80px;
+box-shadow: 2px 1px 5px 1px;
+}
+
+.time{
+ 
+  text-align: center;
+}
+
+.btn{
+  display: flex;
+  margin-top: 30px;
+}
+
+
+.btn-stop{
+  background-color: red;
+   
+}
+.btn-start{
+  background-color: rgb(75, 158, 75);
+ 
+}
+
+span{
+  text-align: center;
+}
+
+button{
+  margin: auto;
+  margin-top: 40px;
+  width: 80px;
+  height: 40px;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 10px;
+  color: white;
+}
+
+.btn-start:hover{
+  background-color: rgb(30, 113, 30);
+  
+}
+.btn-stop:hover{
+  background-color: rgb(183, 38, 38);
+  
+}
+
+*/
+
+
+
+.calculator{
+  display: flex;
+  margin: auto;
+  background-color: red;
+}
+
+body{
+  
+}

@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: url(https://th.bing.com/th/id/R.0bd7b1e1a7cb6b37501d64ec48bec803?rik=%2f61issBGbPERbw&riu=http%3a%2f%2fhammelarch.com%2fuploads%2f_large%2fMcCormick_TopPhoto.jpg&ehk=pxuEG8r1YVlO9LDSDoXwPywKldER48ulATxIPbAfWds%3d&risl=&pid=ImgRaw&r=0);
+  background-repeat:no-repeat;
+background-position: center center;
+background-size: 100%;
+}
+
+
+
+.quote-container {
+  margin: auto;
+  margin-top: 20%;
+  text-align: center;
+  justify-content: center;
+ 
+ 
+  width: 90%;
+  
+}
+
+div.dark {
+  background-color: black;
+  color: white;
+  margin: auto;
+  margin-top: 20%;
+  text-align: center;
+  justify-content: center;
+  width: 70%;
+}
+
+.text {
+  font-size: 20px;
+  line-height: 25px;
+  padding: 15px;
+}
+
+p.black {
+  font-size: 15px;
+  padding: 10px;
+}
+
+.author {
+  font-size: 15px;
+  padding: 10px;
+}
+
+.btn {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  background-color: white;
+  text-decoration: none;
+  padding: 10px;
+  width: 90px;
+  border: 0px;
+  border-radius: 5px;
+}
+
+a {
+  text-decoration: none;
+}
+
